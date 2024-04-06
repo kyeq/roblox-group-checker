@@ -1,0 +1,5 @@
+[06-04-24] [22:08:01] [Info] Attempting to fetch roblox x-csrf-token...
+[06-04-24] [22:08:01] [Success] Successfully fetched roblox x-csrf-token.
+[06-04-24] [22:08:01] [Info] Group generator started.
+[06-04-24] [22:08:01] [Warning] Tried 'dw' - unavailable!
+[06-04-24] [22:08:06] [Warning] Tried 'ba' - unavailable!
