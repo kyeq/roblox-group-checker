@@ -2,7 +2,22 @@
 
 Automatically generate Roblox Groups!
 
-## config.json
+**All generated groups will be placed inside of generated.txt**
 
-1. (str) roblox-auth-token: Your .ROBLO-SECURITY cookie
-2. (number) rate: How often to perform a group availability check
+## configuration
+
+To change the length of characters to try and claim, alter the *Length* parameter in the `random_name` function inside of **main.py**
+
+To change the refresh rate, and roblox token, edit `config.json`
+
+### config.json values
+
+```json
+{
+  "roblox-auth-token": "",
+  "rate": 2
+}
+```
+
+1. rate : how often to perform a group availability check.
+2. roblox-auth-token : your .ROBLO-SECURITY cookie (See here)[https://wiki.clanny.systems/docs/roblox/getROBLOSECURITY/]
