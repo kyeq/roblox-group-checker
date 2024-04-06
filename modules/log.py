@@ -3,7 +3,7 @@ from datetime import datetime
 from pathlib import Path
 resources_path = Path("resources")
 log_path = resources_path / "log.txt"
-generated_path = resources_path / "generated.txt"
+generated_path = "generated.txt"
 os.system("color")
 
 class bcolors:
@@ -21,7 +21,7 @@ def logGenerated(id, name) -> None:
     time = datetime.strftime(datetime.now(),"%H:%M:%S")
     date = datetime.today().strftime('%d-%m-%y')
     with open(generated_path,"a") as f:
-        f.write(f"[{date} [{time}] {name} - https://roblox.com/groups/{id}")
+        f.write(f"[{date}] [{time}] {name} - https://roblox.com/groups/{id}\n")
     f.close()
 
 def logSuccess(message:str) -> None:

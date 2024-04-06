@@ -12,7 +12,7 @@ refresh_rate = config_data['rate']
 
 cached = []
 
-def random_name(Length=4):
+def random_name(Length=2):
     Letters = string.ascii_lowercase
     return ''.join(random.choice(Letters) for _ in range(Length))
 

@@ -3,3 +3,247 @@
 [06-04-24] [22:08:01] [Info] Group generator started.
 [06-04-24] [22:08:01] [Warning] Tried 'dw' - unavailable!
 [06-04-24] [22:08:06] [Warning] Tried 'ba' - unavailable!
+[06-04-24] [22:22:08] [Info] Attempting to fetch roblox x-csrf-token...
+[06-04-24] [22:22:09] [Success] Successfully fetched roblox x-csrf-token.
+[06-04-24] [22:22:09] [Info] Group generator started.
+[06-04-24] [22:22:09] [Success] Created group 'ainw' / 34130829
+[06-04-24] [22:22:13] [Success] Created group 'bgkl' / 34130831
+[06-04-24] [22:22:15] [Info] Tried 'grut' - unavailable!
+[06-04-24] [22:22:18] [Success] Created group 'itqk' / 34130833
+[06-04-24] [22:22:21] [Success] Created group 'xjtq' / 34130834
+[06-04-24] [22:24:48] [Info] Attempting to fetch roblox x-csrf-token...
+[06-04-24] [22:24:48] [Success] Successfully fetched roblox x-csrf-token.
+[06-04-24] [22:24:48] [Info] Group generator started.
+[06-04-24] [22:24:48] [Info] Group generator stopped.
+[06-04-24] [22:25:57] [Info] Attempting to fetch roblox x-csrf-token...
+[06-04-24] [22:25:57] [Success] Successfully fetched roblox x-csrf-token.
+[06-04-24] [22:25:57] [Info] Group generator started.
+[06-04-24] [22:25:57] [Info] Group generator stopped.
+[06-04-24] [22:26:18] [Info] Attempting to fetch roblox x-csrf-token...
+[06-04-24] [22:26:19] [Success] Successfully fetched roblox x-csrf-token.
+[06-04-24] [22:26:19] [Info] Group generator started.
+[06-04-24] [22:26:19] [Info] Group generator stopped.
+[06-04-24] [22:26:57] [Info] Attempting to fetch roblox x-csrf-token...
+[06-04-24] [22:26:58] [Success] Successfully fetched roblox x-csrf-token.
+[06-04-24] [22:26:58] [Info] Group generator started.
+[06-04-24] [22:26:58] [Info] Tried 'fau' - unavailable!
+[06-04-24] [22:27:00] [Info] Tried 'xdj' - unavailable!
+[06-04-24] [22:27:01] [Info] Tried 'rsa' - unavailable!
+[06-04-24] [22:27:03] [Info] Tried 'yhb' - unavailable!
+[06-04-24] [22:27:05] [Info] Tried 'pkn' - unavailable!
+[06-04-24] [22:27:06] [Info] Tried 'dss' - unavailable!
+[06-04-24] [22:27:08] [Info] Tried 'wfe' - unavailable!
+[06-04-24] [22:27:10] [Info] Tried 'icy' - unavailable!
+[06-04-24] [22:27:11] [Info] Tried 'kjb' - unavailable!
+[06-04-24] [22:27:13] [Info] Tried 'rab' - unavailable!
+[06-04-24] [22:27:15] [Info] Tried 'gxj' - unavailable!
+[06-04-24] [22:27:16] [Info] Tried 'bpg' - unavailable!
+[06-04-24] [22:27:18] [Info] Tried 'hxz' - unavailable!
+[06-04-24] [22:27:20] [Info] Tried 'jvr' - unavailable!
+[06-04-24] [22:27:21] [Info] Tried 'xsn' - unavailable!
+[06-04-24] [22:27:23] [Info] Tried 'nvc' - unavailable!
+[06-04-24] [22:27:25] [Info] Tried 'lfi' - unavailable!
+[06-04-24] [22:27:26] [Info] Tried 'fhd' - unavailable!
+[06-04-24] [22:27:28] [Info] Tried 'uqm' - unavailable!
+[06-04-24] [22:27:30] [Info] Tried 'yqb' - unavailable!
+[06-04-24] [22:31:35] [Info] Attempting to fetch roblox x-csrf-token...
+[06-04-24] [22:31:35] [Success] Successfully fetched roblox x-csrf-token.
+[06-04-24] [22:31:35] [Info] Group generator started.
+[06-04-24] [22:31:35] [Info] Tried 'inz' - unavailable!
+[06-04-24] [22:31:36] [Info] Tried 'ter' - unavailable!
+[06-04-24] [22:31:37] [Info] Tried 'eoo' - unavailable!
+[06-04-24] [22:31:39] [Info] Tried 'diz' - unavailable!
+[06-04-24] [22:31:40] [Info] Tried 'teq' - unavailable!
+[06-04-24] [22:31:41] [Info] Tried 'rvv' - unavailable!
+[06-04-24] [22:31:42] [Info] Tried 'myl' - unavailable!
+[06-04-24] [22:31:43] [Info] Tried 'kee' - unavailable!
+[06-04-24] [22:31:44] [Info] Tried 'uze' - unavailable!
+[06-04-24] [22:31:46] [Info] Tried 'hly' - unavailable!
+[06-04-24] [22:31:47] [Info] Tried 'feh' - unavailable!
+[06-04-24] [22:31:48] [Info] Tried 'dhh' - unavailable!
+[06-04-24] [22:31:49] [Info] Tried 'rbr' - unavailable!
+[06-04-24] [22:31:50] [Info] Tried 'hym' - unavailable!
+[06-04-24] [22:31:51] [Info] Tried 'hiw' - unavailable!
+[06-04-24] [22:31:53] [Info] Tried 'cio' - unavailable!
+[06-04-24] [22:31:54] [Info] Tried 'pvk' - unavailable!
+[06-04-24] [22:31:55] [Info] Tried 'eyz' - unavailable!
+[06-04-24] [22:31:56] [Info] Tried 'lld' - unavailable!
+[06-04-24] [22:31:57] [Info] Tried 'vuo' - unavailable!
+[06-04-24] [22:31:58] [Info] Tried 'mro' - unavailable!
+[06-04-24] [22:32:00] [Info] Tried 'gbj' - unavailable!
+[06-04-24] [22:32:01] [Info] Tried 'dio' - unavailable!
+[06-04-24] [22:32:02] [Info] Tried 'ifq' - unavailable!
+[06-04-24] [22:32:03] [Info] Tried 'tqd' - unavailable!
+[06-04-24] [22:32:04] [Info] Tried 'wfb' - unavailable!
+[06-04-24] [22:32:06] [Info] Tried 'edx' - unavailable!
+[06-04-24] [22:32:07] [Info] Tried 'mqs' - unavailable!
+[06-04-24] [22:32:08] [Info] Tried 'lge' - unavailable!
+[06-04-24] [22:32:09] [Info] Tried 'nqi' - unavailable!
+[06-04-24] [22:32:10] [Info] Tried 'dgi' - unavailable!
+[06-04-24] [22:32:11] [Info] Tried 'dxr' - unavailable!
+[06-04-24] [22:32:13] [Info] Tried 'bcv' - unavailable!
+[06-04-24] [22:32:14] [Info] Tried 'pbm' - unavailable!
+[06-04-24] [22:32:15] [Info] Tried 'ivn' - unavailable!
+[06-04-24] [22:32:16] [Info] Tried 'ssn' - unavailable!
+[06-04-24] [22:32:17] [Info] Tried 'kwj' - unavailable!
+[06-04-24] [22:32:18] [Info] Tried 'esk' - unavailable!
+[06-04-24] [22:32:20] [Info] Tried 'kne' - unavailable!
+[06-04-24] [22:32:21] [Info] Tried 'fmg' - unavailable!
+[06-04-24] [22:32:22] [Info] Tried 'gbe' - unavailable!
+[06-04-24] [22:32:23] [Info] Tried 'mik' - unavailable!
+[06-04-24] [22:32:24] [Info] Tried 'unl' - unavailable!
+[06-04-24] [22:32:26] [Info] Tried 'amd' - unavailable!
+[06-04-24] [22:32:27] [Info] Tried 'fnd' - unavailable!
+[06-04-24] [22:32:28] [Info] Tried 'lyi' - unavailable!
+[06-04-24] [22:32:29] [Info] Tried 'pby' - unavailable!
+[06-04-24] [22:32:30] [Info] Tried 'cur' - unavailable!
+[06-04-24] [22:32:31] [Info] Tried 'flp' - unavailable!
+[06-04-24] [22:32:33] [Info] Tried 'frk' - unavailable!
+[06-04-24] [22:32:34] [Info] Tried 'hxv' - unavailable!
+[06-04-24] [22:32:35] [Info] Tried 'zsn' - unavailable!
+[06-04-24] [22:32:36] [Info] Tried 'yox' - unavailable!
+[06-04-24] [22:32:37] [Info] Tried 'wqe' - unavailable!
+[06-04-24] [22:32:38] [Info] Tried 'rky' - unavailable!
+[06-04-24] [22:32:40] [Success] Created group 'bqg' / 34130907
+[06-04-24] [22:32:41] [Info] Tried 'czd' - unavailable!
+[06-04-24] [22:32:43] [Info] Tried 'yun' - unavailable!
+[06-04-24] [22:32:44] [Info] Tried 'mzp' - unavailable!
+[06-04-24] [22:32:45] [Info] Tried 'zan' - unavailable!
+[06-04-24] [22:32:46] [Info] Tried 'qbr' - unavailable!
+[06-04-24] [22:32:47] [Info] Tried 'stf' - unavailable!
+[06-04-24] [22:32:48] [Info] Tried 'auh' - unavailable!
+[06-04-24] [22:32:50] [Info] Tried 'dgk' - unavailable!
+[06-04-24] [22:32:51] [Info] Tried 'jyp' - unavailable!
+[06-04-24] [22:32:52] [Info] Tried 'uxq' - unavailable!
+[06-04-24] [22:32:53] [Info] Tried 'ngp' - unavailable!
+[06-04-24] [22:32:54] [Info] Tried 'xnw' - unavailable!
+[06-04-24] [22:32:56] [Info] Tried 'xpa' - unavailable!
+[06-04-24] [22:32:57] [Info] Tried 'ucr' - unavailable!
+[06-04-24] [22:32:58] [Info] Tried 'bht' - unavailable!
+[06-04-24] [22:32:59] [Info] Tried 'mzk' - unavailable!
+[06-04-24] [22:33:00] [Info] Tried 'vul' - unavailable!
+[06-04-24] [22:33:01] [Info] Tried 'gos' - unavailable!
+[06-04-24] [22:33:03] [Info] Tried 'ngi' - unavailable!
+[06-04-24] [22:33:04] [Info] Tried 'xqa' - unavailable!
+[06-04-24] [22:33:05] [Info] Tried 'hxr' - unavailable!
+[06-04-24] [22:33:06] [Info] Tried 'ein' - unavailable!
+[06-04-24] [22:33:07] [Info] Tried 'xnc' - unavailable!
+[06-04-24] [22:33:08] [Info] Tried 'oav' - unavailable!
+[06-04-24] [22:33:10] [Info] Tried 'ahf' - unavailable!
+[06-04-24] [22:33:11] [Info] Tried 'geu' - unavailable!
+[06-04-24] [22:33:12] [Info] Tried 'dug' - unavailable!
+[06-04-24] [22:33:13] [Info] Tried 'vek' - unavailable!
+[06-04-24] [22:33:14] [Info] Tried 'tvi' - unavailable!
+[06-04-24] [22:33:16] [Info] Tried 'xeq' - unavailable!
+[06-04-24] [22:33:17] [Info] Tried 'wan' - unavailable!
+[06-04-24] [22:33:18] [Info] Tried 'siy' - unavailable!
+[06-04-24] [22:33:19] [Info] Tried 'upe' - unavailable!
+[06-04-24] [22:33:20] [Info] Tried 'cxz' - unavailable!
+[06-04-24] [22:33:21] [Info] Tried 'oax' - unavailable!
+[06-04-24] [22:33:23] [Info] Tried 'mri' - unavailable!
+[06-04-24] [22:33:24] [Info] Tried 'veg' - unavailable!
+[06-04-24] [22:33:25] [Info] Tried 'ewx' - unavailable!
+[06-04-24] [22:33:26] [Info] Tried 'uvp' - unavailable!
+[06-04-24] [22:33:27] [Info] Tried 'mdt' - unavailable!
+[06-04-24] [22:33:29] [Info] Tried 'pyv' - unavailable!
+[06-04-24] [22:33:30] [Info] Tried 'mry' - unavailable!
+[06-04-24] [22:33:31] [Info] Tried 'oqz' - unavailable!
+[06-04-24] [22:33:32] [Info] Tried 'zvu' - unavailable!
+[06-04-24] [22:33:33] [Info] Tried 'jhp' - unavailable!
+[06-04-24] [22:33:34] [Info] Tried 'gog' - unavailable!
+[06-04-24] [22:33:36] [Info] Tried 'nkr' - unavailable!
+[06-04-24] [22:33:37] [Info] Tried 'etl' - unavailable!
+[06-04-24] [22:33:38] [Info] Tried 'eab' - unavailable!
+[06-04-24] [22:33:39] [Info] Tried 'ace' - unavailable!
+[06-04-24] [22:33:40] [Info] Tried 'ffk' - unavailable!
+[06-04-24] [22:33:41] [Info] Tried 'qpa' - unavailable!
+[06-04-24] [22:33:43] [Info] Tried 'zmz' - unavailable!
+[06-04-24] [22:33:44] [Info] Tried 'fbd' - unavailable!
+[06-04-24] [22:33:45] [Info] Tried 'kef' - unavailable!
+[06-04-24] [22:33:46] [Info] Tried 'rxe' - unavailable!
+[06-04-24] [22:33:47] [Info] Tried 'vus' - unavailable!
+[06-04-24] [22:33:49] [Info] Tried 'hzn' - unavailable!
+[06-04-24] [22:33:50] [Info] Tried 'xjy' - unavailable!
+[06-04-24] [22:33:51] [Info] Tried 'bib' - unavailable!
+[06-04-24] [22:33:52] [Info] Tried 'ped' - unavailable!
+[06-04-24] [22:33:53] [Info] Tried 'opc' - unavailable!
+[06-04-24] [22:33:54] [Info] Tried 'dix' - unavailable!
+[06-04-24] [22:33:56] [Info] Tried 'qbk' - unavailable!
+[06-04-24] [22:33:57] [Info] Tried 'qwt' - unavailable!
+[06-04-24] [22:33:58] [Info] Tried 'knp' - unavailable!
+[06-04-24] [22:33:59] [Info] Tried 'moe' - unavailable!
+[06-04-24] [22:34:00] [Info] Tried 'riv' - unavailable!
+[06-04-24] [22:34:01] [Info] Tried 'jmy' - unavailable!
+[06-04-24] [22:34:03] [Info] Tried 'wof' - unavailable!
+[06-04-24] [22:35:38] [Info] Attempting to fetch roblox x-csrf-token...
+[06-04-24] [22:35:39] [Success] Successfully fetched roblox x-csrf-token.
+[06-04-24] [22:35:39] [Info] Group generator started.
+[06-04-24] [22:35:39] [Info] Tried 'vtw' - unavailable!
+[06-04-24] [22:35:40] [Success] Created group 'vby' / 34130920
+[06-04-24] [22:35:42] [Info] Tried 'cif' - unavailable!
+[06-04-24] [22:35:43] [Info] Tried 'ynd' - unavailable!
+[06-04-24] [22:35:44] [Info] Tried 'zsj' - unavailable!
+[06-04-24] [22:35:45] [Info] Tried 'wvo' - unavailable!
+[06-04-24] [22:35:46] [Info] Tried 'imh' - unavailable!
+[06-04-24] [22:35:48] [Info] Tried 'zch' - unavailable!
+[06-04-24] [22:35:49] [Info] Tried 'hkz' - unavailable!
+[06-04-24] [22:35:50] [Info] Tried 'vjo' - unavailable!
+[06-04-24] [22:35:51] [Info] Tried 'cvq' - unavailable!
+[06-04-24] [22:35:52] [Info] Tried 'zfz' - unavailable!
+[06-04-24] [22:35:53] [Info] Tried 'kuu' - unavailable!
+[06-04-24] [22:35:55] [Info] Tried 'vtc' - unavailable!
+[06-04-24] [22:35:56] [Info] Tried 'cyg' - unavailable!
+[06-04-24] [22:35:57] [Info] Tried 'ngn' - unavailable!
+[06-04-24] [22:35:58] [Info] Tried 'oci' - unavailable!
+[06-04-24] [22:35:59] [Info] Tried 'csz' - unavailable!
+[06-04-24] [22:36:00] [Info] Tried 'ueu' - unavailable!
+[06-04-24] [22:36:02] [Info] Tried 'dwo' - unavailable!
+[06-04-24] [22:36:03] [Info] Tried 'nyv' - unavailable!
+[06-04-24] [22:36:04] [Info] Tried 'nxb' - unavailable!
+[06-04-24] [22:36:05] [Info] Tried 'wbo' - unavailable!
+[06-04-24] [22:36:06] [Info] Tried 'lqs' - unavailable!
+[06-04-24] [22:36:08] [Info] Tried 'tpi' - unavailable!
+[06-04-24] [22:36:09] [Info] Tried 'jlm' - unavailable!
+[06-04-24] [22:36:10] [Info] Tried 'kzt' - unavailable!
+[06-04-24] [22:36:11] [Info] Tried 'uem' - unavailable!
+[06-04-24] [22:36:12] [Info] Tried 'iww' - unavailable!
+[06-04-24] [22:36:13] [Info] Tried 'tus' - unavailable!
+[06-04-24] [22:36:15] [Info] Tried 'uyw' - unavailable!
+[06-04-24] [22:36:16] [Info] Tried 'vuy' - unavailable!
+[06-04-24] [22:36:17] [Info] Tried 'hqr' - unavailable!
+[06-04-24] [22:36:18] [Info] Tried 'kpp' - unavailable!
+[06-04-24] [22:36:19] [Info] Tried 'njz' - unavailable!
+[06-04-24] [22:36:20] [Info] Tried 'egj' - unavailable!
+[06-04-24] [22:36:22] [Info] Tried 'wkq' - unavailable!
+[06-04-24] [22:36:23] [Info] Tried 'ygt' - unavailable!
+[06-04-24] [22:36:24] [Info] Tried 'kbt' - unavailable!
+[06-04-24] [22:36:25] [Info] Tried 'snz' - unavailable!
+[06-04-24] [22:36:26] [Info] Tried 'yhv' - unavailable!
+[06-04-24] [22:36:28] [Info] Tried 'tbr' - unavailable!
+[06-04-24] [22:36:29] [Info] Tried 'omf' - unavailable!
+[06-04-24] [22:36:30] [Info] Tried 'yvt' - unavailable!
+[06-04-24] [22:36:31] [Info] Tried 'qqc' - unavailable!
+[06-04-24] [22:36:32] [Info] Tried 'iqb' - unavailable!
+[06-04-24] [22:36:33] [Info] Tried 'znz' - unavailable!
+[06-04-24] [22:36:35] [Info] Tried 'fgj' - unavailable!
+[06-04-24] [22:36:36] [Info] Tried 'kwp' - unavailable!
+[06-04-24] [22:36:37] [Info] Tried 'lqh' - unavailable!
+[06-04-24] [22:36:38] [Info] Tried 'qzh' - unavailable!
+[06-04-24] [22:36:39] [Info] Tried 'mbm' - unavailable!
+[06-04-24] [22:36:41] [Info] Tried 'bgs' - unavailable!
+[06-04-24] [22:36:43] [Success] Created group 'vke' / 34130924
+[06-04-24] [22:36:44] [Info] Tried 'nlt' - unavailable!
+[06-04-24] [22:36:45] [Info] Tried 'tdz' - unavailable!
+[06-04-24] [22:36:46] [Info] Tried 'xsv' - unavailable!
+[06-04-24] [22:36:47] [Info] Tried 'fbs' - unavailable!
+[06-04-24] [22:36:49] [Info] Tried 'olj' - unavailable!
+[06-04-24] [22:36:50] [Info] Tried 'mbj' - unavailable!
+[06-04-24] [22:36:51] [Info] Tried 'djh' - unavailable!
+[06-04-24] [22:36:52] [Info] Tried 'kbv' - unavailable!
+[06-04-24] [22:36:53] [Info] Tried 'nao' - unavailable!
+[06-04-24] [22:36:54] [Info] Tried 'saz' - unavailable!
+[06-04-24] [22:36:56] [Info] Tried 'wom' - unavailable!
+[06-04-24] [22:36:57] [Info] Tried 'mag' - unavailable!
+[06-04-24] [22:36:58] [Info] Tried 'mtk' - unavailable!
+[06-04-24] [22:36:59] [Info] Tried 'wyc' - unavailable!
+[06-04-24] [22:37:00] [Info] Tried 'gnj' - unavailable!
