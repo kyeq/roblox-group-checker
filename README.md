@@ -20,4 +20,6 @@ To change the refresh rate, and roblox token, edit `config.json`
 ```
 
 1. rate : how often to perform a group availability check.
-2. roblox-auth-token : your .ROBLO-SECURITY cookie (See here)[https://wiki.clanny.systems/docs/roblox/getROBLOSECURITY/]
+2. roblox-auth-token : your .ROBLO-SECURITY cookie (see below)
+
+(Getting your .ROBLO-SECURITY cookie)[https://wiki.clanny.systems/docs/roblox/getROBLOSECURITY/]
